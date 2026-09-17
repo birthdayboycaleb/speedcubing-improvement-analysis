@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/competitor_progression.csv
+
+sql/speedcubing_analysis.db
+
+tableau/.~*
