@@ -6,7 +6,7 @@ An analysis of how competitive 3x3 speedcubers improve with experience, using of
 
 ## Key Findings
 
-- Typical competition averages fell from 25.8 seconds at competition 1 to 14.0 seconds by competition 10.
+- Among 21,123 competitors with at least 10 valid averages, the median competition average fell from 25.8 seconds at competition 1 to 14.0 seconds at competition 10.
 - 91.8% reached sub-30, 76.8% reached sub-20, 54.9% reached sub-15, and 15.3% reached sub-10.
 - Competitors with more competition experience generally showed higher average improvement.
 - The United States had the largest competitor count in the dataset, with 11,770 competitors.
